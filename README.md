@@ -99,6 +99,9 @@ A	6	C
 
 ```
 
+Additionally, this is how Visualize.py represents the test input: ![Four nodes connected such that their edges form a distorted rectangle](https://user-images.githubusercontent.com/82421572/123171779-965cc100-d452-11eb-9b10-98e045dbf6fd.png)
+
+
 ## Discaimers
 
 Programs assume valid input. Otherwise, things fall apart. Valid input will:
