@@ -5,7 +5,7 @@
  * Desc: Entry object storing a target and next-hop node, as
  * 		 well as an associated cost to get to target node.
  * 		 Used to simplify Djikra’s-shortest-path algorithm
- *		 demonstration in DjikraDemo.java
+ *		 demonstration in DijkstraDemo.java
  */
 
 public class Entry<T> {

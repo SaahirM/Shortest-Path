@@ -5,7 +5,7 @@
 
 ## Desc
 
-A demonstration of Djikra's shortest-path algorithm on a graph. Main program is DjikraDemo.java. Program reads an undirected, connected graph from a text file (formatted as an adjacency list). The program then runs Djikra's algorithm on every node to find the shortest path from every node to every other node on the graph. Meanwhile, it prints the results to the console and 'Output.txt'.
+A demonstration of Dijkstra's shortest-path algorithm on a graph. Main program is DijkstraDemo.java. Program reads an undirected, connected graph from a text file (formatted as an adjacency list). The program then runs Dijkstra's algorithm on every node to find the shortest path from every node to every other node on the graph. Meanwhile, it prints the results to the console and 'Output.txt'.
 
 I've also included a python file (Visualize.py) that can read the text file, parse the information, and display the graphs using python's networkx module.
 
